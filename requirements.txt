@@ -7,3 +7,4 @@ dash_bootstrap_components
 pathlib
 gunicorn
 pycountry
+pandas_datareader
